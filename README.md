@@ -13,8 +13,8 @@ The project was made on my First year in Ben Gurion University as a student in "
   * Place both the dungeons_and_dragons.jar file and the levels_dir folder in the same directory on your computer.
 
 3. Open Command Prompt:
-  *Open Command Prompt (CMD) on your computer.
-  *Navigate to the directory where you placed the dungeons_and_dragons.jar file and levels_dir folder.
+  * Open Command Prompt (CMD) on your computer.
+  * Navigate to the directory where you placed the dungeons_and_dragons.jar file and levels_dir folder.
 
 4. Run the JAR File:
   * In the Command Prompt, type the following command: java -jar dungeons_and_dragons.jar levels_dir
